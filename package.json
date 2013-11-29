@@ -1,0 +1,9 @@
+{
+  "name": "travis-lite-link",
+  "fullName": "Link to Travis Lite",
+  "id": "jid1-6LWhEthmlYfjWw",
+  "description": "Add a URL on a travis-ci.org page to link to the travis-lite.com for the same page.",
+  "author": "Nigel Babu",
+  "license": "MIT",
+  "version": "1.0"
+}
